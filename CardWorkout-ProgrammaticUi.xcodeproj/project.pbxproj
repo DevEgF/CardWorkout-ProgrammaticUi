@@ -13,6 +13,7 @@
 		D0E2738F2A1BA5C90042C7BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0E2738D2A1BA5C90042C7BD /* LaunchScreen.storyboard */; };
 		D0E273972A1BA95B0042C7BD /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E273962A1BA95B0042C7BD /* CardSelectionVC.swift */; };
 		D0E273992A1BABED0042C7BD /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E273982A1BABED0042C7BD /* CWButton.swift */; };
+		D0E2739C2A1BB6020042C7BD /* RulesVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E2739B2A1BB6020042C7BD /* RulesVCViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D0E273902A1BA5C90042C7BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0E273962A1BA95B0042C7BD /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
 		D0E273982A1BABED0042C7BD /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
+		D0E2739B2A1BB6020042C7BD /* RulesVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVCViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D0E273822A1BA5C70042C7BD /* AppDelegate.swift */,
 				D0E273842A1BA5C70042C7BD /* SceneDelegate.swift */,
+				D0E2739B2A1BB6020042C7BD /* RulesVCViewController.swift */,
 				D0E273962A1BA95B0042C7BD /* CardSelectionVC.swift */,
 				D0E273982A1BABED0042C7BD /* CWButton.swift */,
 				D0E2738B2A1BA5C90042C7BD /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 				D0E273832A1BA5C70042C7BD /* AppDelegate.swift in Sources */,
 				D0E273852A1BA5C70042C7BD /* SceneDelegate.swift in Sources */,
 				D0E273972A1BA95B0042C7BD /* CardSelectionVC.swift in Sources */,
+				D0E2739C2A1BB6020042C7BD /* RulesVCViewController.swift in Sources */,
 				D0E273992A1BABED0042C7BD /* CWButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

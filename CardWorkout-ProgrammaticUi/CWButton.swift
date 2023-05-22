@@ -31,5 +31,4 @@ class CWButton: UIButton {
         setTitleColor(.white, for: .normal)
         translatesAutoresizingMaskIntoConstraints = false
     }
-
 }
